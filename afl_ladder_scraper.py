@@ -15,17 +15,22 @@ for year in YEARS:
     ### --- Get Grand Final Winner --- ###
     grand_final_winner = None
     try:
-        for b in soup.find_all("b"):
-            if "Grand Final" in b.text:
-                grand_table = b.find_parent("table").find_next_sibling("table")
-                # print(grand_table)
-                match_rows = grand_table.find_all("tr")
-                for row in match_rows:
-                    cells = row.find_all("td")
-                    if len(cells) >= 4 and "won by" in cells[3].text:
-                        winner_text = cells[3].text.strip()
-                        grand_final_winner = winner_text.split(" won by")[0]
-                        break
+        grand_final_blocks = [
+            b for b in soup.find_all("b") if "Grand Final" in b.text
+        ]
+
+        for b in reversed(grand_final_blocks):  # Go backwards to catch replays
+            grand_table = b.find_parent("table").find_next_sibling("table")
+            if not grand_table:
+                continue
+            match_rows = grand_table.find_all("tr")
+            for row in match_rows:
+                cells = row.find_all("td")
+                if len(cells) >= 4 and "won by" in cells[3].text:
+                    winner_text = cells[3].text.strip()
+                    grand_final_winner = winner_text.split(" won by")[0]
+                    break
+            if grand_final_winner:
                 break
     except Exception as e:
         print(f"Could not find Grand Final winner for {year}: {e}")
