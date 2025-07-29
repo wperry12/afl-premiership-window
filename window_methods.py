@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the ladder data
-df = pd.read_csv("afl_ladder_with_premiers.csv")
+df = pd.read_csv("data/afl_ladder_with_premiers.csv")
 
 # Premiership window conventinally defined as top 6 for attack and defence
 # def is_in_window(team_row, year_df):
