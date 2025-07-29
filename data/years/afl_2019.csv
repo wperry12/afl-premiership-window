@@ -1,0 +1,19 @@
+Year,Position,Team,Played,Wins,Draws,Losses,For,Against,Percentage,Points,Premiers
+2019,1,Geelong,22,16,,6,1984,1462,135.7,64,False
+2019,2,Brisbane Lions,22,16,,6,2004,1694,118.3,64,False
+2019,3,Richmond,22,16,,6,1892,1664,113.7,64,True
+2019,4,Collingwood,22,15,,7,1885,1601,117.7,60,False
+2019,5,West Coast,22,15,,7,1902,1691,112.5,60,False
+2019,6,Greater Western Sydney,22,13,,9,1926,1669,115.4,52,False
+2019,7,Western Bulldogs,22,12,,10,1941,1810,107.2,48,False
+2019,8,Essendon,22,12,,10,1702,1784,95.4,48,False
+2019,9,Hawthorn,22,11,,11,1742,1602,108.7,44,False
+2019,10,Port Adelaide,22,11,,11,1806,1714,105.4,44,False
+2019,11,Adelaide,22,10,,12,1776,1761,100.9,40,False
+2019,12,North Melbourne,22,10,,12,1824,1834,99.5,40,False
+2019,13,Fremantle,22,9,,13,1579,1718,91.9,36,False
+2019,14,St Kilda,22,9,,13,1645,1961,83.9,36,False
+2019,15,Sydney,22,8,,14,1706,1746,97.7,32,False
+2019,16,Carlton,22,7,,15,1609,1905,84.5,28,False
+2019,17,Melbourne,22,5,,17,1569,1995,78.6,20,False
+2019,18,Gold Coast,22,3,,19,1351,2232,60.5,12,False

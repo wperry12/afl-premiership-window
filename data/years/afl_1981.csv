@@ -1,0 +1,13 @@
+Year,Position,Team,Played,Wins,Draws,Losses,For,Against,Percentage,Points,Premiers
+1981,1,Carlton,22,17,,5,2303,1768,130.3,68,True
+1981,2,Collingwood,22,17,,5,2399,1957,122.6,68,False
+1981,3,Geelong,22,16,,6,2224,1714,129.8,64,False
+1981,4,Essendon,22,16,,6,2323,1821,127.6,64,False
+1981,5,Fitzroy,22,14,,8,2413,2152,112.1,56,False
+1981,6,Hawthorn,22,13,,9,2313,2114,109.4,52,False
+1981,7,Richmond,22,13,,9,2323,2207,105.3,52,False
+1981,8,North Melbourne,22,10,,12,2386,2293,104.1,40,False
+1981,9,South Melbourne,22,8,,14,2165,2522,85.8,32,False
+1981,10,St Kilda,22,5,,17,1930,2266,85.2,20,False
+1981,11,Footscray,22,2,,20,1764,2680,65.8,8,False
+1981,12,Melbourne,22,1,,21,1824,2873,63.5,4,False

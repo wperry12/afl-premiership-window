@@ -1,0 +1,16 @@
+Year,Position,Team,Played,Wins,Draws,Losses,For,Against,Percentage,Points,Premiers
+1993,1,Essendon,20,13,1,6,2333,1959,119.1,54,True
+1993,2,Carlton,20,13,1,6,2315,1968,117.6,54,False
+1993,3,North Melbourne,20,13,,7,2597,2150,120.8,52,False
+1993,4,Hawthorn,20,13,,7,2166,1858,116.6,52,False
+1993,5,Adelaide,20,12,,8,2168,1840,117.8,48,False
+1993,6,West Coast,20,12,,8,1912,1651,115.8,48,False
+1993,7,Geelong,20,12,,8,2354,2109,111.6,48,False
+1993,8,Collingwood,20,11,,9,2086,2060,101.3,44,False
+1993,9,Footscray,20,11,,9,1978,1997,99.0,44,False
+1993,10,Melbourne,20,10,,10,2101,1873,112.2,40,False
+1993,11,Fitzroy,20,10,,10,2001,2011,99.5,40,False
+1993,12,St Kilda,20,10,,10,2040,2166,94.2,40,False
+1993,13,Brisbane Bears,20,4,,16,1886,2504,75.3,16,False
+1993,14,Richmond,20,4,,16,1753,2480,70.7,16,False
+1993,15,Sydney,20,1,,19,1837,2901,63.3,4,False

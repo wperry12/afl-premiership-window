@@ -1,0 +1,19 @@
+Year,Position,Team,Played,Wins,Draws,Losses,For,Against,Percentage,Points,Premiers
+2017,1,Adelaide,22,15,1,6,2415,1776,136.0,62,False
+2017,2,Geelong,22,15,1,6,2134,1818,117.4,62,False
+2017,3,Richmond,22,15,,7,1992,1684,118.3,60,True
+2017,4,Greater Western Sydney,22,14,2,6,2081,1812,114.8,60,False
+2017,5,Port Adelaide,22,14,,8,2168,1671,129.7,56,False
+2017,6,Sydney,22,14,,8,2093,1651,126.8,56,False
+2017,7,Essendon,22,12,,10,2135,2004,106.5,48,False
+2017,8,West Coast,22,12,,10,1964,1858,105.7,48,False
+2017,9,Melbourne,22,12,,10,2035,1934,105.2,48,False
+2017,10,Western Bulldogs,22,11,,11,1857,1913,97.1,44,False
+2017,11,St Kilda,22,11,,11,1925,1986,96.9,44,False
+2017,12,Hawthorn,22,10,1,11,1864,2055,90.7,42,False
+2017,13,Collingwood,22,9,1,12,1944,1963,99.0,38,False
+2017,14,Fremantle,22,8,,14,1607,2160,74.4,32,False
+2017,15,North Melbourne,22,6,,16,1983,2264,87.6,24,False
+2017,16,Carlton,22,6,,16,1594,2038,78.2,24,False
+2017,17,Gold Coast,22,6,,16,1756,2311,76.0,24,False
+2017,18,Brisbane Lions,22,5,,17,1877,2526,74.3,20,False

@@ -1,0 +1,19 @@
+Year,Position,Team,Played,Wins,Draws,Losses,For,Against,Percentage,Points,Premiers
+2023,1,Collingwood,23,18,,5,2142,1687,127.0,72,True
+2023,2,Brisbane Lions,23,17,,6,2180,1771,123.1,68,False
+2023,3,Port Adelaide,23,17,,6,2149,1906,112.7,68,False
+2023,4,Melbourne,23,16,,7,2079,1660,125.2,64,False
+2023,5,Carlton,23,13,1,9,1922,1697,113.3,54,False
+2023,6,St Kilda,23,13,,10,1775,1647,107.8,52,False
+2023,7,Greater Western Sydney,23,13,,10,2018,1885,107.1,52,False
+2023,8,Sydney,23,12,1,10,2050,1863,110.0,50,False
+2023,9,Western Bulldogs,23,12,,11,1919,1766,108.7,48,False
+2023,10,Adelaide,23,11,,12,2193,1877,116.8,44,False
+2023,11,Essendon,23,11,,12,1838,2050,89.7,44,False
+2023,12,Geelong,23,10,1,12,2088,1855,112.6,42,False
+2023,13,Richmond,23,10,1,12,1856,1983,93.6,42,False
+2023,14,Fremantle,23,10,,13,1835,1898,96.7,40,False
+2023,15,Gold Coast,23,9,,14,1839,2006,91.7,36,False
+2023,16,Hawthorn,23,7,,16,1686,2101,80.2,28,False
+2023,17,North Melbourne,23,3,,20,1657,2318,71.5,12,False
+2023,18,West Coast,23,3,,20,1418,2674,53.0,12,False

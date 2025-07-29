@@ -1,0 +1,13 @@
+Year,Position,Team,Played,Wins,Draws,Losses,For,Against,Percentage,Points,Premiers
+1968,1,Essendon,20,16,1,3,1860,1428,130.3,66,False
+1968,2,Carlton,20,15,,5,1751,1343,130.4,60,True
+1968,3,Geelong,20,15,,5,1528,1431,106.8,60,False
+1968,4,St Kilda,20,14,1,5,1718,1263,136.0,58,False
+1968,5,Richmond,20,14,,6,1889,1536,123.0,56,False
+1968,6,Hawthorn,20,9,1,10,1934,1869,103.5,38,False
+1968,7,Collingwood,20,9,,11,1623,1717,94.5,36,False
+1968,8,Melbourne,20,8,,12,1434,1709,83.9,32,False
+1968,9,South Melbourne,20,6,1,13,1639,1954,83.9,26,False
+1968,10,Footscray,20,5,,15,1413,1710,82.6,20,False
+1968,11,Fitzroy,20,4,,16,1643,2035,80.7,16,False
+1968,12,North Melbourne,20,3,,17,1266,1703,74.3,12,False
