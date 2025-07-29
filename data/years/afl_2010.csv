@@ -1,0 +1,17 @@
+Year,Position,Team,Played,Wins,Draws,Losses,For,Against,Percentage,Points,Premiers
+2010,1,Collingwood,22,17,1,4,2349,1658,141.7,70,True
+2010,2,Geelong,22,17,,5,2518,1702,147.9,68,False
+2010,3,St Kilda,22,15,1,6,1935,1591,121.6,62,False
+2010,4,Western Bulldogs,22,14,,8,2174,1734,125.4,56,False
+2010,5,Sydney,22,13,,9,2017,1863,108.3,52,False
+2010,6,Fremantle,22,13,,9,2168,2087,103.9,52,False
+2010,7,Hawthorn,22,12,1,9,2044,1847,110.7,50,False
+2010,8,Carlton,22,11,,11,2143,1983,108.1,44,False
+2010,9,North Melbourne,22,11,,11,1930,2208,87.4,44,False
+2010,10,Port Adelaide,22,10,,12,1749,2123,82.4,40,False
+2010,11,Adelaide,22,9,,13,1763,1870,94.3,36,False
+2010,12,Melbourne,22,8,1,13,1863,1971,94.5,34,False
+2010,13,Brisbane Lions,22,7,,15,1775,2158,82.3,28,False
+2010,14,Essendon,22,7,,15,1930,2402,80.3,28,False
+2010,15,Richmond,22,6,,16,1714,2348,73.0,24,False
+2010,16,West Coast,22,4,,18,1773,2300,77.1,16,False

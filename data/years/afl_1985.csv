@@ -1,0 +1,13 @@
+Year,Position,Team,Played,Wins,Draws,Losses,For,Against,Percentage,Points,Premiers
+1985,1,Essendon,22,19,,3,2755,1991,138.4,76,True
+1985,2,Footscray,22,16,,6,2417,2000,120.9,64,False
+1985,3,Hawthorn,22,15,1,6,2647,2024,130.8,62,False
+1985,4,Carlton,22,15,,7,2430,2104,115.5,60,False
+1985,5,North Melbourne,22,13,1,8,2379,2431,97.9,54,False
+1985,6,Geelong,22,12,,10,2277,2263,100.6,48,False
+1985,7,Collingwood,22,10,,12,2197,2180,100.8,40,False
+1985,8,Richmond,22,9,,13,2362,2590,91.2,36,False
+1985,9,Fitzroy,22,7,,15,2301,2452,93.8,28,False
+1985,10,Sydney,22,6,,16,2219,2349,94.5,24,False
+1985,11,Melbourne,22,6,,16,1965,2527,77.8,24,False
+1985,12,St Kilda,22,3,,19,1899,2937,64.7,12,False

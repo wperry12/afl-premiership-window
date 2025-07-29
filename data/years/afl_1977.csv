@@ -1,0 +1,13 @@
+Year,Position,Team,Played,Wins,Draws,Losses,For,Against,Percentage,Points,Premiers
+1977,1,Collingwood,22,18,,4,2560,1959,130.7,72,False
+1977,2,Hawthorn,22,17,,5,2618,1959,133.6,68,False
+1977,3,North Melbourne,22,15,,7,2124,1803,117.8,60,True
+1977,4,Richmond,22,14,1,7,2370,2085,113.7,58,False
+1977,5,South Melbourne,22,13,1,8,2148,1942,110.6,54,False
+1977,6,Carlton,22,13,,9,2081,1859,111.9,52,False
+1977,7,Footscray,22,10,1,11,2170,2141,101.4,42,False
+1977,8,Geelong,22,8,,14,1930,2333,82.7,32,False
+1977,9,Essendon,22,7,1,14,2085,2518,82.8,30,False
+1977,10,Fitzroy,22,6,,16,2072,2474,83.8,24,False
+1977,11,Melbourne,22,5,,17,2117,2492,85.0,20,False
+1977,12,St Kilda,22,3,2,17,1966,2676,73.5,16,False

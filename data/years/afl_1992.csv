@@ -1,0 +1,16 @@
+Year,Position,Team,Played,Wins,Draws,Losses,For,Against,Percentage,Points,Premiers
+1992,1,Geelong,22,16,,6,3057,2099,145.6,64,False
+1992,2,Footscray,22,16,,6,2384,1836,129.8,64,False
+1992,3,Collingwood,22,16,,6,2195,1911,114.9,64,False
+1992,4,West Coast,22,15,1,6,2206,1752,125.9,62,True
+1992,5,Hawthorn,22,14,,8,2579,2098,122.9,56,False
+1992,6,St Kilda,22,14,,8,2415,2009,120.2,56,False
+1992,7,Carlton,22,14,,8,2362,2103,112.3,56,False
+1992,8,Essendon,22,12,,10,2241,2414,92.8,48,False
+1992,9,Adelaide,22,11,,11,2317,2286,101.4,44,False
+1992,10,Fitzroy,22,9,,13,2166,2398,90.3,36,False
+1992,11,Melbourne,22,7,1,14,2083,2386,87.3,30,False
+1992,12,North Melbourne,22,7,,15,2269,2535,89.5,28,False
+1992,13,Richmond,22,5,,17,2160,2938,73.5,20,False
+1992,14,Brisbane Bears,22,4,1,17,1770,2742,64.6,18,False
+1992,15,Sydney,22,3,1,18,1997,2694,74.1,14,False

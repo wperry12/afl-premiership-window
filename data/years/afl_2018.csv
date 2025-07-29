@@ -1,0 +1,19 @@
+Year,Position,Team,Played,Wins,Draws,Losses,For,Against,Percentage,Points,Premiers
+2018,1,Richmond,22,18,,4,2143,1574,136.1,72,False
+2018,2,West Coast,22,16,,6,2012,1657,121.4,64,True
+2018,3,Collingwood,22,15,,7,2046,1699,120.4,60,False
+2018,4,Hawthorn,22,15,,7,1972,1642,120.1,60,False
+2018,5,Melbourne,22,14,,8,2299,1749,131.4,56,False
+2018,6,Sydney,22,14,,8,1822,1664,109.5,56,False
+2018,7,Greater Western Sydney,22,13,1,8,1898,1661,114.3,54,False
+2018,8,Geelong,22,13,,9,2045,1554,131.6,52,False
+2018,9,North Melbourne,22,12,,10,1950,1790,108.9,48,False
+2018,10,Port Adelaide,22,12,,10,1780,1654,107.6,48,False
+2018,11,Essendon,22,12,,10,1932,1838,105.1,48,False
+2018,12,Adelaide,22,12,,10,1941,1865,104.1,48,False
+2018,13,Western Bulldogs,22,8,,14,1575,2037,77.3,32,False
+2018,14,Fremantle,22,8,,14,1556,2041,76.2,32,False
+2018,15,Brisbane Lions,22,5,,17,1825,2049,89.1,20,False
+2018,16,St Kilda,22,4,1,17,1606,2125,75.6,18,False
+2018,17,Gold Coast,22,4,,18,1308,2182,59.9,16,False
+2018,18,Carlton,22,2,,20,1353,2282,59.3,8,False

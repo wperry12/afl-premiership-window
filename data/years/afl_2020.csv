@@ -1,0 +1,19 @@
+Year,Position,Team,Played,Wins,Draws,Losses,For,Against,Percentage,Points,Premiers
+2020,1,Port Adelaide,17,14,,3,1185,869,136.4,56,False
+2020,2,Brisbane Lions,17,14,,3,1184,948,124.9,56,False
+2020,3,Richmond,17,12,1,4,1135,874,129.9,50,True
+2020,4,Geelong,17,12,,5,1233,901,136.8,48,False
+2020,5,West Coast,17,12,,5,1095,936,117.0,48,False
+2020,6,St Kilda,17,10,,7,1159,997,116.2,40,False
+2020,7,Western Bulldogs,17,10,,7,1103,1034,106.7,40,False
+2020,8,Collingwood,17,9,1,7,965,881,109.5,38,False
+2020,9,Melbourne,17,9,,8,1063,986,107.8,36,False
+2020,10,Greater Western Sydney,17,8,,9,1007,1053,95.6,32,False
+2020,11,Carlton,17,7,,10,1017,1078,94.3,28,False
+2020,12,Fremantle,17,7,,10,866,924,93.7,28,False
+2020,13,Essendon,17,6,1,10,938,1185,79.2,26,False
+2020,14,Gold Coast,17,5,1,11,996,1099,90.6,22,False
+2020,15,Hawthorn,17,5,,12,1004,1194,84.1,20,False
+2020,16,Sydney,17,5,,12,890,1077,82.6,20,False
+2020,17,North Melbourne,17,3,,14,858,1205,71.2,12,False
+2020,18,Adelaide,17,3,,14,826,1283,64.4,12,False

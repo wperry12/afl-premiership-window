@@ -1,0 +1,13 @@
+Year,Position,Team,Played,Wins,Draws,Losses,For,Against,Percentage,Points,Premiers
+1969,1,Collingwood,20,15,,5,2129,1651,129.0,60,False
+1969,2,Carlton,20,15,,5,2260,1875,120.5,60,False
+1969,3,Geelong,20,13,1,6,2092,1745,119.9,54,False
+1969,4,Richmond,20,13,,7,2060,1653,124.6,52,True
+1969,5,Hawthorn,20,13,,7,2025,2050,98.8,52,False
+1969,6,Essendon,20,10,1,9,1941,1893,102.5,42,False
+1969,7,St Kilda,20,9,,11,1803,1747,103.2,36,False
+1969,8,North Melbourne,20,8,,12,1859,2125,87.5,32,False
+1969,9,South Melbourne,20,7,,13,1803,2186,82.5,28,False
+1969,10,Fitzroy,20,7,,13,1745,2118,82.4,28,False
+1969,11,Footscray,20,6,,14,1778,2079,85.5,24,False
+1969,12,Melbourne,20,3,,17,1838,2211,83.1,12,False
