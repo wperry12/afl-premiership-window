@@ -1,0 +1,23 @@
+.team-logo {
+  cursor: pointer;
+}
+
+.team-logo-fallback {
+  cursor: pointer;
+}
+
+.fallback-text {
+  font-size: 12px;
+  font-weight: bold;
+  fill: #6b7280;
+}
+
+.hover-area {
+  cursor: pointer;
+}
+
+.tooltip-text {
+  font-size: 12px;
+  font-weight: 500;
+  fill: white;
+} 

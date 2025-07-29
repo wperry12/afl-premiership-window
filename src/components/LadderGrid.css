@@ -1,0 +1,95 @@
+.ladder-grid {
+  background: white;
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+.grid-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2rem;
+  position: relative;
+}
+
+.grid-title {
+  color: #1e3a8a;
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.year-selector-container {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.grid-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2rem;
+  width: 100%;
+}
+
+.grid-svg {
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  background: white;
+  display: block;
+  margin: 0 auto;
+}
+
+.axis-label {
+  font-size: 14px;
+  font-weight: 600;
+  fill: #374151;
+}
+
+.scale-marker {
+  font-size: 12px;
+  fill: #6b7280;
+}
+
+.team-name {
+  font-size: 12px;
+  font-weight: 600;
+  fill: #374151;
+}
+
+.team-position {
+  font-size: 10px;
+  fill: #6b7280;
+}
+
+.grid-legend {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 1rem;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 14px;
+  color: #374151;
+}
+
+.legend-logo {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  border: 2px solid #10b981;
+}
+
+.no-data {
+  text-align: center;
+  padding: 3rem;
+  color: #6b7280;
+} 
