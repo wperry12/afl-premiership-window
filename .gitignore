@@ -1,0 +1,22 @@
+# --- Node / React ---
+node_modules/
+build/
+dist/
+.env
+*.log
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+.env.*
+
+# --- Data / artifacts ---
+data/*.zip
+data/*.csv~
+*.sqlite
+*.db
+
+# --- OS cruft ---
+.DS_Store
+Thumbs.db
